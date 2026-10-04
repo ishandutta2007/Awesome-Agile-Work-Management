@@ -63,7 +63,7 @@ Below is a curated comparison of leading SaaS Agile work management platforms, s
 
 ## 🔓 Open-Source GitHub Projects
 
-The open-source Agile ecosystem is production-proven and mature, providing strong options for self-hosting and full data sovereignty. Sorted below by **GitHub Stars_Count (Descending)**:
+The open-source Agile ecosystem is production-proven and mature, providing strong options for self-hosting and full data sovereignty. Sorted below by **GitHub_Stars_Count (Descending)**:
 
 ### 🚀 Full-Featured Agile Platforms
 
